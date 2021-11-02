@@ -31,6 +31,7 @@ $ `mvn clean install
 * App Launched is handled at Before Hooks
 
 ## To run the docker file 
-
+* Clone the git repo on your local machine by using git clone command: git clone https://github.com/sam20487/AppiumCucumber.git
+* Build a docker image using the Dockerfile.
 
 
