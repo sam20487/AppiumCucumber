@@ -22,11 +22,15 @@ Sample Appium test automation for calculator
 
 
 ## Test Execution
+$ git clone https://github.com/sam20487/AppiumCucumber.git
 $ `mvn clean install
 
 ## Points to note before running the test cases
 * Need to start Appium server Manually (url : https://0.0.0.0:4327)
 * Configure the \src\test\resources\deviceconfig.properties file to point to specific device
 * App Launched is handled at Before Hooks
+
+## To run the docker file 
+
 
 
